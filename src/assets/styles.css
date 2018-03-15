@@ -1,0 +1,7 @@
+@import "~normalize.css/normalize.css";
+@import "~npm-font-open-sans/open-sans.css";
+@import "~font-awesome/css/font-awesome.min.css";
+@import "styles/root.css";
+@import "styles/header.css";
+@import "styles/content.css";
+@import "styles/footer.css";
