@@ -5,6 +5,7 @@
   --content-text: #000000;
   --footer-background: #424242;
   --footer-text: #FAFAFA;
+  --content-margin-top: 1em;
 }
 
 *, *:after, *:before {
@@ -15,12 +16,10 @@
 
 html, body {
   font: normal 16px 'Open Sans', sans-serif;
-  height: 100%;
-  min-height: 100%;
 }
 
 .app {
   display: flex;
-  min-height: 100vh;
+  height: 100%;
   flex-direction: column;
 }
