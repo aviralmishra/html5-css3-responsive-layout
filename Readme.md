@@ -10,7 +10,7 @@ Responsive layout template with HTML5 and CSS Flexbox
 
 ## Dev - Run and Hot Reload
 
-    num run start
+    num start
 
 ## Attributions
 

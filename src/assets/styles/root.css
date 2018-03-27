@@ -8,18 +8,17 @@
   --content-margin-top: 1em;
 }
 
-*, *:after, *:before {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-html, body {
+html {
+  height: 100%;
   font: normal 16px 'Open Sans', sans-serif;
 }
 
-.app {
+#app {
   display: flex;
-  height: 100%;
   flex-direction: column;
+  height: 100vh;
+}
+
+*, *:after, *:before {
+  box-sizing: border-box;
 }

@@ -20,8 +20,7 @@
   "author": "Aviral Mishra (aviral.mishra@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "font-awesome": "^4.7.0",
-    "material-design-icons": "^3.0.1",
+    "font-awesome": "^4.7.0",    
     "normalize.css": "^8.0.0",
     "npm-font-open-sans": "^1.1.0"
   },
