@@ -14,6 +14,6 @@ Responsive layout template with HTML5 and CSS Flexbox
 
 ## Attributions
 
-1.  Template - <https://demo.tutorialzine.com/2016/06/freebie-landing-page-template-with-flexbox/>
+1.  Flexbox <https://github.com/philipwalton/solved-by-flexbox>
 2.  Images - <https://unsplash.com/>
 3.  Icons - <https://fontawesome.com/>
